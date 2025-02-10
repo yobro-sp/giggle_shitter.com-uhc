@@ -1,0 +1,51 @@
+body{
+    background-image: url(1382576.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color:rgb(110, 108, 108);
+    font-family:"press Start 2P";
+    font-stretch: condensed;
+    font-size: large;
+    background: linear-gradient(rgb(253, 201, 209),white);
+    margin: -10px;
+    padding: 5px;
+}
+table{
+    background: black;
+    margin-top: 100px;
+    margin-left: 10px;
+    font-size: 230%;
+    font-weight: bolder;
+    padding: 5px;
+    color: rgb(37, 37, 37);
+    font-family: "cute font";
+}
+th{
+    background: linear-gradient(rgb(253, 205, 213),white);
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+#button{
+    width: 60px;
+    height: 60px;
+    background: rgb(255, 158, 174);
+    position:relative;
+    top: 110px;
+    left: 10px;
+}
+#button:hover{
+    background: rgb(253, 122, 144);
+    border-image: 1px;
+}
+img{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: -4px;
+    left: -9px;
+}
