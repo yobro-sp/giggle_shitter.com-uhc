@@ -4,18 +4,9 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
-h1{
-    color:rgb(110, 108, 108);
-    font-family:"press Start 2P";
-    font-stretch: condensed;
-    font-size: large;
-    background: linear-gradient(rgb(253, 201, 209),white);
-    margin: -10px;
-    padding: 5px;
-}
+
 table{
     background: black;
-    margin-top: 100px;
     margin-left: 6px;
     font-size: 230%;
     font-weight: bolder;
@@ -35,11 +26,9 @@ th{
     height: 60px;
     background-image: url(TierListBox.png);
     background-repeat: no-repeat;
-    
-    
     background-size: cover;
     position:relative;
-    top: 100px;
+    top: 0px;
     left: 10px;
 }
 #button:hover{
